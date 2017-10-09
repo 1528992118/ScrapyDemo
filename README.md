@@ -1,4 +1,4 @@
-Welcome to My Scrapy Demo for JD-Phone
+Welcome to My Scrapy-Crawler Demo for JD-Phone
 =============
 Scrapy爬虫实例,结合[Scrapy官网][官网地址]文档,基于scrapy.Spider,对京东手机页面进行数据爬取.
 自定义三个处理的Pipeline类(图像下载,Json转化,MySql数据存储).并对获取的数据,根据京东各品牌手机
