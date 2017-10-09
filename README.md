@@ -10,8 +10,8 @@ Scrapy爬虫实例,结合[Scrapy官网][官网地址]文档,基于scrapy.Spider,
 -------------
 - [image](#image)
 - [JDPhone](#JDPhone)
-    - [spiders](#spiders)
-       - [jdphone-spider.py]   
+    - [spiders](#spiders)    
+        - [jdphone-spider.py]          
     - [db.py](#db)
     - [imgPipelines.py](#imgPipelines)
     - [jsonPipelines.py](#jsonPipelines)
