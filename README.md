@@ -107,11 +107,11 @@ IMAGES_STORE = 'E:\\PycharmWorkSpace\\Scrapy\\JDPhone\\image'
 ````
 
 
-## data.json
-略
+## data
+data.json为生成的json文件
 
 ## scrapy
-略
+scrapy.cfg 文件 略
 
 
 
